@@ -36,12 +36,12 @@ body{
     margin-top: 3rem;
 }
 .top-cloud{
-    height: 11rem;
+    height: 8rem;
     position: absolute;
     right: 15rem;
 }
 .bottom-cloud{
-    height: 11rem;
+    height: 8rem;
     position: absolute;
     top: 15rem;
     left: 13rem;
